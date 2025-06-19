@@ -1,5 +1,5 @@
-# Assignments – Cognizant's Digital Nurture 4.0
-## 6362006_Simran_Raghav(DN4.0)
+# 6362006_Simran_Raghav-DN4.0
+## Assignments – Cognizant's Digital Nurture 4.0
 
 **Submitted by:** Simran Raghav  
 **Superset ID:**  6362006
