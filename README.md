@@ -33,6 +33,8 @@ Assignments, code files, and supporting documents will be added as I progress th
 ├── 📁 week2/
 │   └── Week2_HandsOn(6362006).docx
 │
+├── 📁 week3/
+│   └── Week3_HandsOn(6362006).docx
 ├── 📄 README.md
  
 > More folders and code files will be added as the assignments progress.
