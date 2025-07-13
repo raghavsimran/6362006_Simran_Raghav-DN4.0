@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\OneDrive\\Desktop\\6363348-Cognizant-Handson-Solutions\\Week4_ASP.NET Core 8.0 Web API\\3.Web Api using custom model class\\CODE\\WebApiusingmodelclass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AA8FBF-2E40-4F1A-BE3D-80C681EA9337}|WebApiusingmodelclass.csproj|c:\\users\\kiit\\onedrive\\desktop\\6363348-cognizant-handson-solutions\\week4_asp.net core 8.0 web api\\3.web api using custom model class\\code\\webapiusingmodelclass\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AA8FBF-2E40-4F1A-BE3D-80C681EA9337}|WebApiusingmodelclass.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AA8FBF-2E40-4F1A-BE3D-80C681EA9337}|WebApiusingmodelclass.csproj|c:\\users\\kiit\\onedrive\\desktop\\6363348-cognizant-handson-solutions\\week4_asp.net core 8.0 web api\\3.web api using custom model class\\code\\webapiusingmodelclass\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AA8FBF-2E40-4F1A-BE3D-80C681EA9337}|WebApiusingmodelclass.csproj|solutionrelative:filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AA8FBF-2E40-4F1A-BE3D-80C681EA9337}|WebApiusingmodelclass.csproj|c:\\users\\kiit\\onedrive\\desktop\\6363348-cognizant-handson-solutions\\week4_asp.net core 8.0 web api\\3.web api using custom model class\\code\\webapiusingmodelclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AA8FBF-2E40-4F1A-BE3D-80C681EA9337}|WebApiusingmodelclass.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AA8FBF-2E40-4F1A-BE3D-80C681EA9337}|WebApiusingmodelclass.csproj|c:\\users\\kiit\\onedrive\\desktop\\6363348-cognizant-handson-solutions\\week4_asp.net core 8.0 web api\\3.web api using custom model class\\code\\webapiusingmodelclass\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AA8FBF-2E40-4F1A-BE3D-80C681EA9337}|WebApiusingmodelclass.csproj|solutionrelative:filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AA8FBF-2E40-4F1A-BE3D-80C681EA9337}|WebApiusingmodelclass.csproj|c:\\users\\kiit\\onedrive\\desktop\\6363348-cognizant-handson-solutions\\week4_asp.net core 8.0 web api\\3.web api using custom model class\\code\\webapiusingmodelclass\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AA8FBF-2E40-4F1A-BE3D-80C681EA9337}|WebApiusingmodelclass.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\6363348-Cognizant-Handson-Solutions\\Week4_ASP.NET Core 8.0 Web API\\3.Web Api using custom model class\\CODE\\WebApiusingmodelclass\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\6363348-Cognizant-Handson-Solutions\\Week4_ASP.NET Core 8.0 Web API\\3.Web Api using custom model class\\CODE\\WebApiusingmodelclass\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:50:51.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\6363348-Cognizant-Handson-Solutions\\Week4_ASP.NET Core 8.0 Web API\\3.Web Api using custom model class\\CODE\\WebApiusingmodelclass\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\6363348-Cognizant-Handson-Solutions\\Week4_ASP.NET Core 8.0 Web API\\3.Web Api using custom model class\\CODE\\WebApiusingmodelclass\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:58:13.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomAuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\6363348-Cognizant-Handson-Solutions\\Week4_ASP.NET Core 8.0 Web API\\3.Web Api using custom model class\\CODE\\WebApiusingmodelclass\\Filters\\CustomAuthFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\CustomAuthFilter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\6363348-Cognizant-Handson-Solutions\\Week4_ASP.NET Core 8.0 Web API\\3.Web Api using custom model class\\CODE\\WebApiusingmodelclass\\Filters\\CustomAuthFilter.cs",
+              "RelativeToolTip": "Filters\\CustomAuthFilter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:57:49.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\6363348-Cognizant-Handson-Solutions\\Week4_ASP.NET Core 8.0 Web API\\3.Web Api using custom model class\\CODE\\WebApiusingmodelclass\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\6363348-Cognizant-Handson-Solutions\\Week4_ASP.NET Core 8.0 Web API\\3.Web Api using custom model class\\CODE\\WebApiusingmodelclass\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAvwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:55:45.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\OneDrive\\Desktop\\6363348-Cognizant-Handson-Solutions\\Week4_ASP.NET Core 8.0 Web API\\3.Web Api using custom model class\\CODE\\WebApiusingmodelclass\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\KIIT\\OneDrive\\Desktop\\6363348-Cognizant-Handson-Solutions\\Week4_ASP.NET Core 8.0 Web API\\3.Web Api using custom model class\\CODE\\WebApiusingmodelclass\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:55:13.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

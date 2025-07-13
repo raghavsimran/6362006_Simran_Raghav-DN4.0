@@ -1,0 +1,4 @@
+[13-07-2025 20:02:04] This is a test exception for Swagger.
+[13-07-2025 20:02:49] This is a test exception for Swagger.
+[13-07-2025 20:05:16] This is a test exception for Swagger.
+[13-07-2025 20:21:54] This is a test exception for Swagger.

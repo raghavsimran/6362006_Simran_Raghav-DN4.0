@@ -1,0 +1,6 @@
+@WebApiusingmodelclass_HostAddress = http://localhost:5057
+
+GET {{WebApiusingmodelclass_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

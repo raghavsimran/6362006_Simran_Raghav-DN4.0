@@ -1,0 +1,6 @@
+@ApiJsonWebToken_HostAddress = http://localhost:5279
+
+GET {{ApiJsonWebToken_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
